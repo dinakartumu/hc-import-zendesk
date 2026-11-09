@@ -11,11 +11,11 @@
   },
   "navigation": [
     {
+      "page": "index"
+    },
+    {
       "group": "Getting Started",
       "pages": [
-        {
-          "page": "index"
-        },
         {
           "page": "quickstart"
         }
@@ -26,6 +26,19 @@
       "pages": [
         {
           "page": "guides/writing-docs"
+        }
+      ]
+    },
+    {
+      "group": "Using Pageloop",
+      "pages": [
+        {
+          "group": "Using pageloop suggestions",
+          "pages": [
+            {
+              "page": "using-pageloop/using-pageloop-suggestions/internal-article-test"
+            }
+          ]
         }
       ]
     }
